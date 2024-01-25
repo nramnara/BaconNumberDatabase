@@ -9,7 +9,7 @@
   - ctrl + f  `# Bolt Connector` in the setting file, the port number should appear under that heading
 
 ## Installation Guide using eclipse
-1. run ` git clone "https://github.com/JadePablo/3311project.git" ` in your terminal
+1. run ` git clone "https://github.com/nramnara/BaconNumberDatabase.git" ` in your terminal
 2. import into eclipse:
   - File -> Open Projects from File System... -> Import (choose directory option) -> select the cloned folder
 3. right click on the folder in the project explorer.
